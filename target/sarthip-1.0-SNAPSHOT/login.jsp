@@ -15,7 +15,7 @@
 
 
             .custom-bg{
-                background:lightseagreen!important;
+                background:#e11d74!important;
             }
         </style>
     </head>
@@ -44,13 +44,13 @@
                                 </div>
                                
                                
-                                    <button type="submit" class="btn btn btn-info form-control mt-2 ">LOG IN</button>
+                                    <button type="submit" class="btn btn btn-success form-control mt-2 ">LOG IN</button>
                                     
                                 
                             </form>
                           
                                  <form action="register.jsp">
-                                <button  class="btn btn-info form-control text-uppercase  mt-4">go back to registration</button>
+                                <button  class="btn btn-primary form-control text-uppercase  mt-4">go back to registration</button>
                             </form>
                            
                         </div>

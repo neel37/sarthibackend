@@ -19,7 +19,7 @@
 
 
             .custom-bg{
-                background:lightseagreen!important;
+                background:#e11d74!important;
             }
         </style>
 

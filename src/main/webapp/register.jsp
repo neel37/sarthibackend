@@ -15,7 +15,7 @@
 
 
             .custom-bg{
-                background:lightseagreen!important;
+                background:#e11d74!important;
             }
         </style>
     </head>
@@ -46,13 +46,13 @@
 
                                 `
 
-                                <button type="submit" class="btn btn btn-info form-control mt-2">REGISTER</button>
+                                <button type="submit" class="btn btn btn-success form-control mt-2">REGISTER</button>
 
 
                             </form>
 
                             <form action="login.jsp">
-                                <button type="submit" class="btn btn-info form-control mt-4 ">GO BACK TO LOGIN</button>
+                                <button type="submit" class="btn btn-primary form-control mt-4 ">GO BACK TO LOGIN</button>
                             </form>
                         </div>
                         <div class="card-footer custom-bg"></div>

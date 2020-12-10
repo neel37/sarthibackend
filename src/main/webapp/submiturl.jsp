@@ -15,7 +15,7 @@
 
 
             .custom-bg{
-                background:lightseagreen!important;
+                background:#e11d74!important;
             }
         </style>
     </head>
@@ -42,10 +42,10 @@
                                 </div>
                                     
                                     
-                                    <button type="submit" class="form-control btn btn-info mt-4 " >SUBMIT URL</button>
+                                    <button type="submit" class="form-control btn btn-success mt-4 " >SUBMIT URL</button>
                                 </form>
                                  <form action="LogoutServlet">
-                                    <button class="form-control mt-4 btn  btn-info" >LOGOUT</button>
+                                    <button class="form-control mt-4 btn  btn-danger" >LOGOUT</button>
                                 </form>
                             </div>
                             

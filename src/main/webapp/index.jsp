@@ -15,7 +15,7 @@
 
 
             .custom-bg{
-                background:lightseagreen!important;
+                background:#e11d74!important;
             }
         </style>
 
@@ -35,12 +35,12 @@
                         <div class="card-body">
                             <div class="container">
                                 <form action="login.jsp">
-                                    <button class="form-control btn btn-info mt-4 " >SIGN IN</button>
+                                    <button class="form-control btn btn-primary mt-4 " >SIGN IN</button>
                                 </form>
                             </div>
                             <div class="container">
                                 <form action="register.jsp">
-                                    <button class="form-control mt-4 btn  btn-info  " >SIGN UP</button>
+                                    <button class="form-control mt-4 btn  btn-primary  " >SIGN UP</button>
                                 </form>
                             </div>
 
